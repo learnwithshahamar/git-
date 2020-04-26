@@ -1,10 +1,14 @@
 # git-
 first : git init
+
 second: git add . (just one time until there is no file
 added on the project)
+
 third : git commit -a -m "comment" (every time until there is no file
 added on the project)
+
 ====  working tree clear ====
+
 status check - git status
 
 =============================
